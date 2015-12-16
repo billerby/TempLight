@@ -1,0 +1,16 @@
+{
+  "name": "FlyLight",
+  "version": "0.0.2",
+  "description": "A server to control a lamp form weather-stations..",
+  "main": "server.js",
+  "repository": "",
+  "author": "Sebastian Andersson <sebastian@bittr.nu>",
+  "dependencies": {
+    "express": "~3.2.6",
+    "express-ifttt-webhook": "~0.2.3",
+    "forever-monitor": "^1.5.2",
+    "jade": "^1.10.0",
+    "parse5": "^1.4.2",
+    "soap": "^0.9.1"
+  }
+}
